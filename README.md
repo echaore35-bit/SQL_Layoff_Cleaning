@@ -43,9 +43,9 @@ It showcases how to transform a raw dataset into a clean, reliable, and analytic
 |-----------|----------------|
 | Total layoffs per company | Amazon: **18,150** |
 | Total layoffs per industry | Consumer: **44,782** |
-| Top 5 countries | USA, India, UK, Canada, Germany |
-| Year with most layoffs | **2023 (167,684)** |
-| Largest single layoff | Meta – **11,000** |
+| Top 5 countries | USA, India, Netherlands, Sweden, Brazil |
+| Year with most layoffs | **2022 (160,661)** |
+| Largest single layoff | Google – **12,000** |
 | Trend by month | Peaks in **Nov 2022 – Feb 2023** |
 
 ---
@@ -70,7 +70,7 @@ It showcases how to transform a raw dataset into a clean, reliable, and analytic
 ---
 
 ### 👨‍💻 Author
-**Leo Stark**  
+**Justin Noel Echaore**  
 Beginner Data Engineer | Building SQL & ETL Projects  
-📧 [your-email@example.com]  
-🌐 [github.com/yourusername]
+📧 jnechaore@gmail.com  
+🌐 https://github.com/echaore35-bit
