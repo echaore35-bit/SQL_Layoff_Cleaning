@@ -41,7 +41,8 @@ SELECT
 FROM vw_layoff_data_cleaned
 WHERE [date] IS NOT NULL
 GROUP BY FORMAT([date], 'yyyy-MM')
-ORDER BY month;
+ORDER BY month,total_layoffs DESC;
 
 -- View of all data
+
 SELECT * FROM vw_layoff_data_cleaned
